@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+
+# Виртуальное окружение
+venv/
+env/
+.env/
+.venv/
+
+# Pytest
+.pytest_cache/
+pytest_cache/
+.cache/
+htmlcov/
+.coverage
+coverage.xml
+
+# WebDriver
+chromedriver
+geckodriver
+chromedriver.exe
+geckodriver.exe
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Логи
+*.log
+
+# Отчёты
+reports/
+allure-results/
